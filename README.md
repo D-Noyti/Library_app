@@ -100,9 +100,5 @@ Library App demonstrates the practical implementation of mobile application deve
 
 ---
 
-## 9. Author
-
-**Hamza**  
-Flutter Mobile Application Development Project
 
 
